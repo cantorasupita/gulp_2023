@@ -1,0 +1,16 @@
+@import "_normalize";
+@import "_fonts";
+
+
+
+
+
+body {
+    background-color: rgb(255, 142, 142);
+    span {
+        height: 400px;
+        display: inline-block;
+        color: green;
+        background-image: url('../img/Screenshot_2.png');
+    }
+}
